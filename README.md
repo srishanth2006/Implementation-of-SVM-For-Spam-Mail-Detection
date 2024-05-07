@@ -61,15 +61,25 @@ accuracy
 
 ## Output:
 data.head()
+
 <img width="551" alt="image" src="https://github.com/srishanth2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/150319470/18fba85c-0485-43a1-8e98-8122a1e949ac">
+
 data.info()
+
 <img width="359" alt="image" src="https://github.com/srishanth2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/150319470/52d77549-4870-4aec-9a3f-eb06a244ef0a">
+
 data.isnull().sum()
+
 <img width="170" alt="image" src="https://github.com/srishanth2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/150319470/8e350baa-6098-4879-87ea-a519f869424d">
+
 y_pred
+
 <img width="573" alt="image" src="https://github.com/srishanth2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/150319470/abbc6af9-e895-466e-af26-0d57078ace64">
+
 accuracy
+
 <img width="577" alt="image" src="https://github.com/srishanth2006/Implementation-of-SVM-For-Spam-Mail-Detection/assets/150319470/5bc105dc-e500-4a88-896d-2f67a3a824fc">
+
 
 
 
